@@ -20,7 +20,7 @@ Modify `swapBot.ts` to fit your configuration`
 
 ### Usage
 
-- `npm build` build the scripts
+- `npm run build` build the scripts
 - `npm run swapBot` run the trading bot example
 
 
