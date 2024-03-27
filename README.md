@@ -15,8 +15,8 @@ Modify `swapBot.ts` to fit your configuration`
 
 - `<YOUR_WALLET_SECRET_KEY>`: replace to your own one
 - `<YOUR_RPC_URL>`: replace to your prefer one
-- `<TOKEN_ADDRESS>`: tarket token address
-- `<POOL_ADDRESS>`: tarket raydium pool address
+- `<TOKEN_ADDRESS>`: target token address
+- `<POOL_ADDRESS>`: target raydium pool address
 
 ### Usage
 
